@@ -1,0 +1,123 @@
+
+@font-face {
+    font-family: KumbhSans-Regular;
+    src: url(../font/KumbhSans-Regular.ttf);
+}
+@font-face {
+    font-family: KumbhSans-Bold;
+    src: url(../font/KumbhSans-Bold.ttf);
+}
+body{
+    background-color: whitesmoke;
+}
+.logo{
+    margin-top: 12%;
+    margin-left: 10%;
+}
+.contanier{
+    display: flex;
+}
+.page{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.Asimple{
+    font-size: 50px;
+    margin-right: 40%;
+    font-family: 'KumbhSans-Bold';
+}
+
+.Message{
+    font-family: 'KumbhSans-Regular';
+    margin-top: 15px;
+    margin-right: 35%;
+}
+.buttonA{
+    font-size: 20px;
+    margin-top: 5%;
+    border: none;
+    border-radius: 50px;
+    padding:20px 30px;
+    background-color: #5175FF;
+    color: #FFFFFF;
+}
+.BasicBox:hover{
+    color: #FFFFFF;
+    background-color: #5175FF;
+}
+.BasicBox{
+    width: 25%;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.ProBox:hover{
+    color: #FFFFFF;
+
+    background-color: #5175FF;
+}
+.ProBox{
+    width: 25%;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.UltimateBox:hover{
+    color: #FFFFFF;
+
+    background-color: #5175FF;
+}
+.UltimateBox{
+    width: 25%;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.textt{
+    font-size: 25px;
+    margin-top: 16%;
+    margin-bottom: 15%;
+}
+.a1{
+    color: #333950;
+    font-family: 'KumbhSans-Regular';
+    font-size: 65px;
+}
+.a2{
+    font-family: 'KumbhSans-Regular';
+    font-size: 18px;
+    margin-top: 5%;
+    margin-bottom: 25%;
+    color: #333950;
+}
+.letter{
+    font-family: 'KumbhSans-Regular';
+    color: #333950;
+    font-size: 18px;
+    margin-bottom: 10%;
+    
+}
+.btn1{
+    background-color: #E4EAFF ;
+    color: #5175FF;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    padding:20px 30px;
+    margin-bottom: 10%;
+}
+.Boxess{
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+
+
+
